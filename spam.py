@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# main.py - Spammer OTP WhatsApp
+# spam.py - Spammer OTP WhatsApp
 
 import sys
 import time
