@@ -1,5 +1,25 @@
 #tools
 
+🚀 Spammer OTP WhatsApp
+Premium OTP Spammer dengan 39 API WhatsApp
+Sistem Manajemen Lisensi Terenkripsi
+
+Version Platform License Python
+
+📌 Tentang
+Spammer OTP WhatsApp adalah tools profesional untuk spam OTP WhatsApp dengan 39 API.
+Dilengkapi dengan sistem manajemen lisensi menggunakan Supabase sebagai database backend.
+
+✨ Fitur Unggulan
+Fitur	Deskripsi
+🎯 39 API	Spammer OTP WhatsApp lengkap
+🔐 Sistem Lisensi	Trial (3x) + Premium unlimited
+🖥️ Multi-Platform	Kompatibel Linux & Android (Termux)
+⚡ Multi-Threading	Dukungan 1-10 thread
+🔄 Auto Update	Cek update & ketersediaan API
+🛡️ Aman	Source code terenkripsi
+📊 Admin Panel	Manajemen pengguna lengkap
+
 ## 🛠️ Instalasi
 
 ### 📱 Termux (Android)
