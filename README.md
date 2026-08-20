@@ -25,7 +25,7 @@ Fitur	Deskripsi
 
 ### 📱 Termux (Android)
 
-```bash
+
 # 1. Update & upgrade
 pkg update && pkg upgrade
 
