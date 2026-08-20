@@ -42,4 +42,4 @@ cd otp
 pip install -r requirements.txt
 
 # 6. Jalankan
-python main.py
+python spam.py
