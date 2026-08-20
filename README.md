@@ -19,7 +19,6 @@ Fitur	Deskripsi
 🔄 Auto Update	Cek update & ketersediaan API
 🛡️ Aman	Source code terenkripsi
 📊 Admin Panel	Manajemen pengguna lengkap
-
 ## 🛠️ Instalasi
 
 ### 📱 Termux (Android)
