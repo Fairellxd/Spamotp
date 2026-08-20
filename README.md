@@ -1,4 +1,6 @@
-#tools
+#spam
+
+```bash
 
 🚀 Spammer OTP WhatsApp
 Premium OTP Spammer dengan 39 API WhatsApp
