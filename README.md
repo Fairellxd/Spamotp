@@ -38,7 +38,7 @@ pkg install python git -y
 # 4. Clone repository
 git clone https://github.com/Fairellxd/Spamotp.git
 
-cd otp
+cd Spamotp
 
 # 5. Install dependencies
 pip install -r requirements.txt
